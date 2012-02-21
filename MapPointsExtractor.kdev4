@@ -1,0 +1,4 @@
+[Project]
+Name=MapPointsExtractor
+Manager=KDevCMakeManager
+VersionControl=kdevgit
